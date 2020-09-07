@@ -1,4 +1,4 @@
-package com.nelkinda.training.tddjavacrash.lab1;
+package com.nelkinda.training.tddjava.lab1;
 
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;

@@ -1,4 +1,4 @@
-package com.nelkinda.training.tddjavacrash.lab1;
+package com.nelkinda.training.tddjava.lab1;
 
 public class Hello {
     public static void main(final String... args) {
