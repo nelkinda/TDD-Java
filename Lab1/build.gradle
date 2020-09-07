@@ -50,6 +50,7 @@ dependencyManagement {
         dependency 'org.projectlombok:lombok:1.18.12'
     }
 }
+
 dependencies {
     checkstyle 'com.puppycrawl.tools:checkstyle'
 

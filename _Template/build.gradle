@@ -50,6 +50,7 @@ dependencyManagement {
         dependency 'org.projectlombok:lombok:1.18.12'
     }
 }
+
 dependencies {
     checkstyle 'com.puppycrawl.tools:checkstyle'
 
@@ -111,7 +112,7 @@ jacocoTestReport {
 test.finalizedBy jacocoTestReport
 
 pitest {
-    targetClasses = ['com.nelkinda.training.tddjava.lab1'] 
+    targetClasses = ['com.nelkinda.training.tddjava.lab1.*'] 
     pitestVersion = '1.5.2'
     timestampedReports = false
     testPlugin = 'junit5'
