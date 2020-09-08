@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.nelkinda.training.tdd-java</groupId>
-    <artifactId>tdd-java-Lab1</artifactId>
+    <artifactId>tdd-java-Lab3</artifactId>
     <version>0.0.1-SNAPSHOT</version>
 
     <properties>
